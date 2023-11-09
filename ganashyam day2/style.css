@@ -1,0 +1,15 @@
+#tintu{
+    color: aquamarine;
+    text-align: left;
+}
+.box{
+    border: 5px solid red;
+ padding-left: 30px;
+ padding-top: 10px;
+ margin-left:30% ;
+ margin-top: 1%;
+ margin-right: 30%;
+ margin-bottom: 20%;
+ background-color: aqua;
+
+}
